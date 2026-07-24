@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Learning</string>
+    <string name="txt_1">SAMBHAV</string>
+    <string name="btn_text">Just a button</string>
+    <string name="terms_condition">i have read the terms and condition</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+</resources>
